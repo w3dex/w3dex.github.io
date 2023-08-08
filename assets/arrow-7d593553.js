@@ -1,0 +1,1 @@
+import{n as r}from"./vendor-6be3e90c.js";import{L as a}from"./loading-3c5d2442.js";function u({children:o,isLoading:s,disabled:t,onClick:n}){return r.jsxs("button",{className:s||t?"loading":"",disabled:s||t,onClick:n,children:[s?r.jsx("img",{src:a}):null,r.jsx("span",{children:o})]})}const x="/assets/arrow-a7218bf5.svg";export{x as A,u as B};
